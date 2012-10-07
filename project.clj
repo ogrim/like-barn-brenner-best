@@ -5,4 +5,4 @@
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.4.0"]
                  [clj-obt "0.4.0"]]
-  :main like-barn-brenner-best.core)
+  :main like-barn-brenner-best.app)
